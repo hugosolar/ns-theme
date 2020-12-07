@@ -1,0 +1,15 @@
+.entry-header {
+  padding: 2rem 0;
+  .entry-title {
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+}
+.entry-thumbnail {
+  margin-bottom: 1rem;
+  border: 5px solid $gray-300;
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
